@@ -1,5 +1,5 @@
 // This program manipulates a fixed string to reverse it, replace characters in it (in this case '<' with 'e'),
-// find the number of quotation marks, and find the number of instances of the word "Nevermore."
+// find the number of quotation marks, and find the number of instances of the word "Nevermore".
 
 class Reverse {
   public static String reverseString(String text) {
